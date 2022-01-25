@@ -13,9 +13,9 @@ Execute `npm run dev` para fazer a execução do projeto no modo desenvolvimento
 
 ## VEJA ALGUMAS FOTOS DE COMO FICOU A INTERFACE DO PROJETO
 
-![Print 1 da aplicação]()
+![Print 1 da aplicação](https://raw.githubusercontent.com/fr-daniel/projeto-liven/main/images-app/imagem1.png)
 
-![Print 2 da aplicação]()
+![Print 2 da aplicação](https://raw.githubusercontent.com/fr-daniel/projeto-liven/main/images-app/imagem2.png)
 
 ## CASO QUEIRA SABER MAIS SOBRE O PROJETO
 
