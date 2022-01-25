@@ -5,8 +5,8 @@ import { ShoppingCartOutlined } from '@ant-design/icons';
 import Link from 'next/link';
 import Head from 'next/head';
 
-import store from '../store'
-import '../styles/globals.css'
+import store from '../store';
+import '../styles/globals.css';
 
 const { Header, Footer } = Layout;
 
