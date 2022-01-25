@@ -1,24 +1,22 @@
-# Redux Toolkit TypeScript Example
+# Frontend implementado em solução ao desafio Full Frontend
 
-This example shows how to integrate Next.js with [Redux Toolkit](https://redux-toolkit.js.org).
+## TECNOLOGIAS QUE FORAM UTILIZADAS NO PROJETO
+* React.js
+* Next.js
+* Antd
+* Redux
+* Conhecimentos de HTML e CSS
 
-The **Redux Toolkit** is a standardized way to write Redux logic (create actions and reducers, setup the store with some default middlewares like redux devtools extension). This example demonstrates each of these features with Next.js
+## Build
 
-## Deploy your own
+Execute `npm run dev` para fazer a execução do projeto no modo desenvolvimento.
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
+## VEJA ALGUMAS FOTOS DE COMO FICOU A INTERFACE DO PROJETO
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-redux&project-name=with-redux&repository-name=with-redux)
+![Print 1 da aplicação]()
 
-## How to use
+![Print 2 da aplicação]()
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
+## CASO QUEIRA SABER MAIS SOBRE O PROJETO
 
-```bash
-npx create-next-app --example with-redux with-redux-app
-# or
-yarn create next-app --example with-redux with-redux-app
-```
-
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
-# projeto-liven
+Pode entrar em contato comigo pelo seguinte email: fr.daniel.lima@gmail.com
